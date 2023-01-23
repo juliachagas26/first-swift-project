@@ -29,9 +29,9 @@ struct ContentView: View {
                     .italic()
                 Spacer()
                 Button {
-                    print("morte ao kanye west")
+                    print("Shake it Off")
                 } label: {
-                    Text("Morte ao kanye west")
+                    Text("Shake it Off")
                 }.buttonStyle(.bordered)
                     .tint(.red)
                 Spacer()
